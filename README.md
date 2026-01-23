@@ -4,7 +4,7 @@ While there is the excellent https://github.com/ccutrer/balboa_worldwide_app pro
 
 The aim of this project is to achieve similar Home Assistant integration as the app from ccutrer - we are about 95% of the way there
 
-If you have the Balboa GS series please try - https://github.com/MagnusPer/Balboa-GS510SZ
+If you have the Balboa GS series please try - https://github.com/MagnusPer/Balboa-GS510SZ or https://github.com/kgstorm/Balboa-GS100-with-VL260-topside
 
 [Install Guide](https://github.com/netmindz/balboa_GL_ML_spa_control/wiki/Install-Guide)
 
